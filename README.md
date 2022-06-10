@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abedp
-- 🌱 I’m currently grinding to solve challenge at Hackerrank
+- 🌱 I’m a Trainee on Creative Hacknology Intensive Program (CHIP#9) from PT. Bank BTPN
 - 📫 You can reach me at abedpnj@gmail.com
 
 <!---
